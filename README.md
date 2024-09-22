@@ -1,2 +1,1 @@
-# LocalRepoProject
-new repo
+This is the description of my repo 
